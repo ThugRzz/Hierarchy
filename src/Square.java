@@ -1,0 +1,3 @@
+interface Square {
+    double getSquare();
+}
